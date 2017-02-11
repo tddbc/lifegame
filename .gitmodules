@@ -1,0 +1,15 @@
+[submodule "php"]
+	path = php
+	url = https://github.com/TDDBC-Toyama/lifegame-php.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/TDDBC-Toyama/lifegame-ruby.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/TDDBC-Toyama/lifegame-js.git
+[submodule "java"]
+	path = java
+	url = https://github.com/TDDBC-Toyama/lifegame-java.git
+[submodule "cs"]
+	path = cs
+	url = https://github.com/TDDBC-Toyama/lifegame-cs.git
